@@ -21,7 +21,8 @@ A demonstrationDepth.mp4 file is generated with the test results.
 
 You can replace the video referenced in line 14 with any other; in the code there are some references indicating where you can download videos.
 
-This project with yolo26 represents a significant improvement in terms of speed and cardetection
+This project with yolo26 represents a significant improvement in terms of speed and car detection comparing with https://github.com/ablanco1950/DetectCarDistance_Depth-Anything-V2-Metric-Outdoor-Small-hf
+
 
 References
 
