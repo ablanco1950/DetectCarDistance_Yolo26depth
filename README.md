@@ -29,8 +29,6 @@ https://docs.ultralytics.com/tasks/depth
 
 https://github.com/ablanco1950/DetectCarDistance_Depth-Anything-V2-Metric-Outdoor-Small-hf
 
-
 https://github.com/ablanco1950/DetectCarDistanceAndRoadLane
 
-Detects the distance between a camera and a car using yolo26n-depth.pt model from ultralytics
 
