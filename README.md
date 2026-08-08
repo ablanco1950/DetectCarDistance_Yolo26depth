@@ -14,7 +14,7 @@ Test:
 
 Download the project to disk and run:
 
-python VIDEODetectCarDepth_Yolo26
+python VIDEODetectCarDepth_Yolo26.py
 
 
 A demonstrationDepth.mp4 file is generated with the test results.
